@@ -1,5 +1,5 @@
 from constants import PLAYER_RADIUS, LINE_WIDTH, PLAYER_SPEED, PLAYER_TURN_SPEED
-from circleshape import CircleShape
+from models.circleshape import CircleShape
 import pygame
 
 # Base class for game objects
